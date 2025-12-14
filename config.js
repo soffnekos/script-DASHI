@@ -16,23 +16,23 @@ global.botNumber = '' //Ejemplo: 527222519827
 //*──ׄ✰─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['573244642273', '🩵 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 🩵', true],
-  ['50672110920', 'Félix ofc', true],
-  ['18290523631', 'Numero de antes', true],
-  ['923256941884']
+  ['51926427586', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿', true],
+  ['', 'Félix ofc', true],
+  ['', 'Numero de antes', true],
+  ['']
 ]
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.owner_lid = [
-  [' 243349189566583', '🩵 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 🩵 (LID)', true],
-  ['149963665342644', 'Número 2 (LID)', true]
+  [' 51926427586', ' 𝗖𝗿𝗲𝗮𝗱𝗼𝗿  (LID)', true],
+  ['', 'Número 2 (LID)', true]
 ]
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['573244642273'] 
+global.suittag = ['51926427586'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
@@ -41,30 +41,30 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.21'
 global.vs = '2.0.0'
 global.languaje = 'Español'
-global.nameqr = 'Isagi Bot'
+global.nameqr = 'DASHI Bot'
 global.sessions = 'Session'
 global.jadi = 'JadiBot'
 global.makiJadibts = true
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
-global.packsticker = `⏤͟͞ू⃪  ̸̷͢Yoichi 𝐁𝐨𝐭𑁯ᰍ\n`
-global.packname = `⏤͟͞ू⃪  ̸̷͢Yoichi 𝐁𝐨𝐭𑁯ᰍ`
-global.author = `socket:\n✐ Yoichi isagi\n\nStickers Desarrollados en Duarte`;
-global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐃𝐮𝐚𝐫𝐭𝐞';
-global.titulowm = '⏤͟͞ू⃪Yoichi 𝐁ot͟𑁯ᰍ';
-global.igfg = 'DuarteXV'
-global.botname = 'Isagi Yoichi 𝐁𝐨𝐭 𝐌𝐃'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥙᥲr𝗍ᥱ'
-global.textbot = '⏤͟͟͞͞𝐃𝐮𝐚𝐫𝐭𝐞'
-global.gt = '͟͞𝐃uarte';
-global.namechannel = 'Isagi Yoichi bot'
+global.packsticker = `⏤͟͞ू⃪ DASHI-BOT𑁯ᰍ\n`
+global.packname = `⏤͟͞ू⃪  ̸̷͢DASHI-BOT𑁯ᰍ`
+global.author = `socket:\n✐ Yoichi isagi\n\nStickers Desarrollados en KJYOTAKA`;
+global.wm = '⏤͟͞ू⃪  ̸̷͢MADE IN KJYOTAKA ';
+global.titulowm = '⏤͟͞ू⃪KJYOTAKA𑁯ᰍ';
+global.igfg = 'KJYOTAKA'
+global.botname = 'DASHI-BOT'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ KJYOTAKA'
+global.textbot = '⏤͟͟͞͞KYOTAKA'
+global.gt = ''⏤͟͟͞͞KYOTAKA;
+global.namechannel = 'DASHI-BOT'
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Blue-lock-points'
+global.moneda = 'PETRO-DOLARES'
 
-//• ﹒⌗﹒𝑳𝑰𝑵𝑲𝑺 𝑮𝑹𝑼𝑷𝑶𝑺/𝑪𝑨𝑵𝑨𝑳𝑬𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺.ৎ🩵˚₊‧ 
+//• ﹒⌗﹒𝑳𝑰𝑵𝑲𝑺 𝑮𝑹𝑼𝑷𝑶𝑺/𝑪𝑨𝑵𝑨𝑳𝑬𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺.ৎ˚₊‧ 
 global.gp4 = 'https://chat.whatsapp.com/GPfABUmCuVN2Qu1d1PPcBY?mode=ems_copy_t' //Grupo Oficial De Makima 
 global.gp1 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t' //Grupo 2
 global.gp2 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t'//
