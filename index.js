@@ -38,12 +38,12 @@ const {chain} = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 let { say } = cfonts
 console.log(chalk.bold.redBright('\nYoichi Bot\n'))
-say('🩵 Yoichi Bot 🩵', {
+say('DASHI BOT', {
 font: 'block',
 align: 'center',
 colors: ['redBright']
 })
-say('Made with Duarte', {
+say('Made with KJYOTAKA AYANOKOUJI', {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
