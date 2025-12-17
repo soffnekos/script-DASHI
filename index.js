@@ -37,13 +37,13 @@ const {CONNECTING} = ws
 const {chain} = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 let { say } = cfonts
-console.log(chalk.bold.redBright('\nDashi-Bot\n'))
-say('DASHI BOT', {
+console.log(chalk.bold.redBright('\nYoichi Bot\n'))
+say('🩵 Yoichi Bot 🩵', {
 font: 'block',
 align: 'center',
 colors: ['redBright']
 })
-say('Made with KJYOTAKA AYANOKOUJI', {
+say('Made with Duarte', {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
